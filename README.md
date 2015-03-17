@@ -1,2 +1,2 @@
 # yuk-view
-demo of show yup data
+demo of show yuv data
